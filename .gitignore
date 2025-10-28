@@ -1,0 +1,7 @@
+**/__pycache__/
+**/.idea/
+**/.Idea/
+**/venv/
+**/venv_cpu/
+**/secrets.txt
+**/mlff.egg-info/

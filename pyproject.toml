@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlff"
+version = "0.1.0"
+description = "mulit-level feature fusion for continual learning"
+authors = [
+    {name = "Johannes Bauer"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.1.0",
+    "transformers>=4.50.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/jhnns-br/mlff_continual_learning"
