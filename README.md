@@ -61,4 +61,4 @@ A minimum working example is included in `./examples/main.py`.
 ## Cite 📝
 If you use this package in your work, please cite out paper:
 
-J. C. Bauer, P. Geng, S. Trattnig, P. Dokládal and R. Daub, "Multi-Level Feature Fusion for Continual Learning in Visual Quality Inspection," *2025 13th International Conference on Control, Mechatronics and Automation (ICCMA)*, Paris, France, 2025, pp. 587-592, doi: 10.1109/ICCMA67641.2025.11369688.
+J. C. Bauer, P. Geng, S. Trattnig, P. Dokládal and R. Daub, "Multi-Level Feature Fusion for Continual Learning in Visual Quality Inspection," *2025 13th International Conference on Control, Mechatronics and Automation (ICCMA)*, Paris, France, 2025, pp. 587-592, doi: [https://doi.org/10.1109/ICCMA67641.2025.11369688](https://doi.org/10.1109/ICCMA67641.2025.11369688).
